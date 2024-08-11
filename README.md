@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **few small project**
 
-- 🌱 I’m currently learning **Python & JavaScript Full Stack Development**
+- 🌱 I’m currently learning **Data Analytics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Avijit009?tab=repositories](https://github.com/Avijit009?tab=repositories)
 
